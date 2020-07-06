@@ -31,10 +31,193 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="$(KSPDIR)\KSP_x64_Data\Managed\Assembly*.dll">
+    <Reference Include="Assembly-CSharp">
+      <HintPath>R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.AccessibilityModule.dll">
       <Private>False</Private>
     </Reference>
-    <Reference Include="$(KSPDIR)\KSP_x64_Data\Managed\UnityEngine*.dll">
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.AIModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.AndroidJNIModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.AnimationModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ARModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.AssetBundleModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.AudioModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ClothModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ClusterInputModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ClusterRendererModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.CoreModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.CrashReportingModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.DirectorModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.DSPGraphModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.FileSystemHttpModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.GameCenterModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.GridModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.HotReloadModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ImageConversionModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.IMGUIModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.InputLegacyModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.InputModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.JSONSerializeModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.LocalizationModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ParticleSystemModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.PerformanceReportingModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.Physics2DModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.PhysicsModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ProfilerModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.ScreenCaptureModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.SharedInternalsModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.SpriteMaskModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.SpriteShapeModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.StreamingModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.SubstanceModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.TerrainModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.TerrainPhysicsModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.TextCoreModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.TextRenderingModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.TilemapModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.TLSModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UI.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UIElementsModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UIModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UmbraModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UNETModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityAnalyticsModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityConnectModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityTestProtocolModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityWebRequestModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.VehiclesModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.VFXModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.VideoModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.VRModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.WindModule.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="R:\KSP_1.9.1_dev\KSP_x64_Data\Managed\UnityEngine.XRModule.dll">
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />

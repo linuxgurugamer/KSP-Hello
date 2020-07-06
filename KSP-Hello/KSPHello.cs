@@ -31,7 +31,7 @@ namespace KSP_Hello
 
         void FixedUpdate()
         {
-            // Runs once every physics cycle, about 50-100/sec
+            // Runs once every physics cycle, about 50/sec
         }
 
         bool visible = true;

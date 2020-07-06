@@ -1,6 +1,16 @@
 D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\KSP-Hello.dll
 D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\KSP-Hello.pdb
-D:\Users\jbb\github\KSP-Hello\KSP-Hello\obj\Debug\KSP-Hello.csprojAssemblyReference.cache
 D:\Users\jbb\github\KSP-Hello\KSP-Hello\obj\Debug\KSP-Hello.csproj.CoreCompileInputs.cache
 D:\Users\jbb\github\KSP-Hello\KSP-Hello\obj\Debug\KSP-Hello.dll
 D:\Users\jbb\github\KSP-Hello\KSP-Hello\obj\Debug\KSP-Hello.pdb
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\Assembly-CSharp.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\KSPTrackIR.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\KSPAssets.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\Mono.Cecil.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\Ionic.Zip.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\TDx.TDxInput.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\bin\Debug\KSPAssets.XmlSerializers.dll
+D:\Users\jbb\github\KSP-Hello\KSP-Hello\obj\Debug\KSP-Hello.csproj.CopyComplete
